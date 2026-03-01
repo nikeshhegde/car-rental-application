@@ -1,4 +1,4 @@
-# Simulated Car Rental system using object-oriented principles.
+# Simulated Car Rental system
 
 ## Requirements
 - The system should allow reservation of a car of a given type at a desired date and time for a given
