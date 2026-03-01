@@ -1,9 +1,10 @@
 # car-rental-application
 
 Simulated Car Rental system using object-oriented principles.
-Requirements
-• The system should allow reservation of a car of a given type at a desired date and time for a given
+
+##Requirements
+- The system should allow reservation of a car of a given type at a desired date and time for a given
 number of days.
-• There are 3 types of cars (Sedan, SUV and van).
-• The number of cars of each type is limited.
-• Use unit tests to prove the system satisfies the requirements.
+- There are 3 types of cars (Sedan, SUV and van).
+- The number of cars of each type is limited.
+- Use unit tests to prove the system satisfies the requirements.
