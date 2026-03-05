@@ -102,7 +102,7 @@ class CarRentalServiceTest {
     }
 
     @Test
-    void testReservationWithNegativeDaysThrows() {
+    void testReservationWithNegativeDaysFail() {
 
         LocalDateTime startDateTime = LocalDateTime.now();
         int numberOfDays = -1;
@@ -112,7 +112,7 @@ class CarRentalServiceTest {
     }
 
     @Test
-    void testReservationInPastThrows() {
+    void testReservationInPastFail() {
         LocalDateTime startDateTime = LocalDateTime.now().minusDays(1);
         int numberOfDays = 2;
 

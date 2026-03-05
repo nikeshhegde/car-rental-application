@@ -6,3 +6,10 @@ number of days.
 - There are 3 types of cars (Sedan, SUV and van).
 - The number of cars of each type is limited.
 - Use unit tests to prove the system satisfies the requirements.
+
+
+Models
+Car CarType and Reservation class
+
+service 
+CarInventory
